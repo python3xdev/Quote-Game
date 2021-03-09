@@ -1,6 +1,9 @@
 # First Web Scraping Project
 
 This is my first web scraping project, I am also new to working with csv files. So this might not be the most efficient way to complete the given task.  
+
+### It takes about 50 seconds to scrape all the data, so please be patient...
+
 Goal:  
 &nbsp;&nbsp;&nbsp;&nbsp;1) Scrape this website 'http://quotes.toscrape.com' and retrieve the following data...  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) From each quote box scrape the quote it self.  
